@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Viusalise OD Matrix</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<style>
+    .map-overlay {
+        font: 12px/16px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        position: absolute;
+        width: 25%;
+        top: 0;
+        left: 0;
+        padding: 10px;
+    }
+
+    .map-overlay-rightbottom {
+        font: 12px/16px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        background-color: #fff;
+        box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+        border-radius: 3px;
+        position: absolute;
+        width: 15%;
+        bottom: 5%;
+        right: 5%;
+        padding: 5px;
+    }
+
+    .map-overlay-rightTop {
+        font: 12px/16px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        background-color: #fff;
+        box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+        border-radius: 3px;
+        position: absolute;
+        width: 15%;
+        top: 5%;
+        right: 5%;
+        padding: 5px;
+    }
+    .map-overlay .map-overlay-inner {
+        background-color: #fff;
+        box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+        border-radius: 3px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    .map-overlay h2 {
+        line-height: 16px;
+        display: block;
+        margin: 0 0 5px;
+    }
+
+    .map-overlay .legend .bar {
+        height: 10px;
+        width: 100%;
+        background: linear-gradient(to right, #FCA107, #7F3121);
+    }
+
+    .map-overlay input {
+        background-color: transparent;
+        display: inline-block;
+        width: 100%;
+        position: relative;
+        margin: 0;
+        cursor: ew-resize;
+    }
+
+
+
+    .legend-key {
+        display: inline-block;
+        border-radius: 20%;
+        width: 10px;
+        height: 10px;
+        margin-right: 5px;
+    }
+</style>
+
+<div id='map'></div>
+
+<div class='map-overlay top'>
+    <div class='map-overlay-inner'>
+        <h2>OD-lines: Sep 2018 by Hour</h2>
+        <label id='Hour'></label>
+        <input id='slider' type='range' min='0' max='23' step='1' value='0' />
+    </div>
+    <div class='map-overlay-inner'>
+        <div id='legend' class='legend'>
+
+            <output id='hour-display'/>
+        </div>
+    </div>
+</div>
+
+<div class='map-overlay-rightTop' id='features'><h2>Line Info</h2><div id='pd'><p>Hover over a line!</p></div></div>
+
+
+<div class='map-overlay-rightbottom' id='legend1'>
+    <h2>LEGEND</h2>
+</div>
+
+<script src='//d3js.org/d3.v3.min.js' charset='utf-8'></script>
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiY2FudGl1c2RlZXBhbiIsImEiOiJjamRubWNjNmMwYzduMndwcWZpbnI1dm93In0.yzF87wrIm5jsfH6sfDjijw';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/light-v9',
+        center: [2.824381,49.418925],
+        zoom: 11
+    });
+
+    var Hours = [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+    ];
+
+    function filterBy(Hour) {
+
+        var filters = ['==', 'hour', Hour];
+        map.setFilter('stop_count-feature', filters);
+        console.log(Hour)
+
+        // Set the label to the Date
+        document.getElementById('hour-display').textContent = "Hour: "+Hours[Hour];
+    }
+
+    map.on('load', function() {
+
+
+        /* Image: An image is loaded and added to the map. */
+        map.loadImage("./arrow4.png", function(error, image) {
+            if (error) throw error;
+            map.addImage('custom-marker', image);
+        });
+
+
+        map.addSource('stop_count', {
+            type: 'geojson',
+            data: './Stops_In_Out_by_Hour_of_Day.geojson'
+        });
+
+
+        var colors = ['#fbb03b','#223b53','#e55e5e','#3bb2d0','#3bd2d0','#ccc']
+
+
+        map.addLayer({
+            'id': 'stop_count-feature',
+            'type': 'circle',
+            'source':  'stop_count',
+
+            'paint': {
+
+                'circle-color': {
+                    'property': 'In_count',
+                    'stops': [
+
+
+                        [1,  colors[1]],
+                        [3,  colors[2]],
+                        [5,  colors[3]],
+                        [10,  colors[4]],
+                        [100,  colors[5]]
+                    ]
+                },
+                'circle-radius': {
+                    'property': 'Out_count',
+                    'base': 1.75,
+                    'stops': [
+
+                        [0, 10],
+                        [1, 30],
+                        [3, 50],
+                        [5, 100],
+                        [10, 130],
+                        [100, 180]
+                    ]
+                }
+            }});
+
+
+        /* Style layer: A style layer ties together the source and image and specifies how they are displayed on the map. */
+        map.addLayer({
+            'id': 'arrowId',
+            'type': 'symbol',
+            'source': 'stop_count',
+            'layout': {
+                'symbol-placement': 'point',
+
+                'icon-allow-overlap': true,
+                // 'icon-ignore-placement': true,
+                'icon-image': 'custom-marker',
+                'icon-size': 0.5,
+                'visibility': 'visible'
+            }
+        });
+
+
+        // Set filter to first Date of the year
+        // 0 = Hour00:00-00:59
+        filterBy(19);
+
+
+
+
+        document.getElementById('slider').addEventListener('input', function(e) {
+            console.log(e.target.value)
+            var Hour = parseInt(e.target.value, 10);
+            console.log("before filtering:",Hour)
+            filterBy(Hour);
+        });
+
+        var Trip_Counts = ['0 trips','1 trip','2 trips','3 trips','4 trips', 'More than 4 trips']
+        for (i = 0; i < 6; i++) {
+            var layer  = Trip_Counts[i];
+            var color = colors[i];
+            console.log(color)
+            var item = document.createElement('div');
+            var key = document.createElement('span');
+            item.className = 'map-overlay-inner';
+            key.className = 'legend-key';
+            key.style.backgroundColor = color;
+            key.style.color = color;
+
+            var value = document.createElement('span');
+            value.innerHTML = layer;
+
+            item.appendChild(key);
+            item.appendChild(value);
+            legend1.appendChild(item);
+        }
+
+        map.on('mousemove', function(e) {
+            var points = map.queryRenderedFeatures(e.point, {
+                layers: ['stop_count-feature']
+            });
+
+            console.log(points)
+
+            if (points.length > 0) {
+                document.getElementById('pd').innerHTML = '<strong>Stop_ID:' + points[0].properties.Stop_ID + '</strong>' +
+                    '<p><strong><em>In_count:' + points[0].properties.In_count  + '</strong> </em></p>'+
+                    '<p><strong><em>Out_count:' + points[0].properties.Out_count  + '</strong> </em></p>'+
+                    '<p><strong><em>Hour of the Day:' + points[0].properties.hour_of_Day  + '</strong> </em></p>';
+            } else {
+                document.getElementById('pd').innerHTML = '<p>Hover over a point!</p>';
+            }
+        });
+
+    });
+
+
+</script>
+
+</body>
+</html>
