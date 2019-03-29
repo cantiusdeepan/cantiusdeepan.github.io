@@ -1,0 +1,1855 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.82326721,
+                        49.40478402
+                    ],
+                    [
+                        2.825973025,
+                        49.40703683
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5144.0,
+                "curr_stop_name": "Victoire",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5143.0,
+                "next_stop_name": "Reservoirs"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819364074,
+                        49.41571422
+                    ],
+                    [
+                        2.819003144,
+                        49.41540125
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5321,
+                "curr_stop_name": "Port a Bateaux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5364,
+                "next_stop_name": "Couttolenc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.799178091,
+                        49.40491475
+                    ],
+                    [
+                        2.800644887,
+                        49.40728067
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5251.0,
+                "curr_stop_name": "Hopital de Jour",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5216.0,
+                "next_stop_name": "Stade du Clos des Roses"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819003144,
+                        49.41540125
+                    ],
+                    [
+                        2.815837058,
+                        49.41400353
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5334,
+                "curr_stop_name": "Couttolenc",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5321,
+                "next_stop_name": "Eglise St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.814924995,
+                        49.41216561
+                    ],
+                    [
+                        2.815256548,
+                        49.41376329
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5203.0,
+                "curr_stop_name": "Gambetta",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5208.0,
+                "next_stop_name": "Eglise St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.820272773,
+                        49.40986257
+                    ],
+                    [
+                        2.822219222,
+                        49.41333122
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5165.0,
+                "curr_stop_name": "Saint Joseph",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5382.0,
+                "next_stop_name": "Ancien Hopital"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.82971045,
+                        49.40916859
+                    ],
+                    [
+                        2.832251606,
+                        49.40714594
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5412.0,
+                "curr_stop_name": "Carnot",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5145.0,
+                "next_stop_name": "La Venerie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.833774343,
+                        49.40090534
+                    ],
+                    [
+                        2.836888206,
+                        49.40686629
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5149,
+                "curr_stop_name": "Route Forestiere du Moulin",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 8,
+                "next_stop_ID": 5148,
+                "next_stop_name": "Maison de l'Europe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.837152493,
+                        49.40573331
+                    ],
+                    [
+                        2.833774343,
+                        49.40090534
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 4,
+                "curr_stop_ID": 5148.0,
+                "curr_stop_name": "Etats-Unis",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 8,
+                "next_stop_ID": 5147.0,
+                "next_stop_name": "Route Forestiere du Moulin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.81761775,
+                        49.4189012
+                    ],
+                    [
+                        2.819364074,
+                        49.41571422
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5364.0,
+                "curr_stop_name": "Rue de Clermont",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5420.0,
+                "next_stop_name": "Port a Bateaux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.80036916,
+                        49.40723681
+                    ],
+                    [
+                        2.798972338,
+                        49.40499639
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5347,
+                "curr_stop_name": "Stade du Clos des Roses",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5383,
+                "next_stop_name": "Hopital de Jour"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.815837058,
+                        49.41400353
+                    ],
+                    [
+                        2.814897628,
+                        49.41218368
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5339,
+                "curr_stop_name": "Eglise St-Germain",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5334,
+                "next_stop_name": "Gambetta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.80877776,
+                        49.40843488
+                    ],
+                    [
+                        2.809129653,
+                        49.40777773
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5191.0,
+                "curr_stop_name": "Delaidde",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5326.0,
+                "next_stop_name": "Centre Culturel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823005831,
+                        49.41933773
+                    ],
+                    [
+                        2.821909738,
+                        49.41846181
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 15294.0,
+                "curr_stop_name": "Harlay",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5345.0,
+                "next_stop_name": "Parc Songeons"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.820272773,
+                        49.40986257
+                    ],
+                    [
+                        2.822219222,
+                        49.41333122
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5165.0,
+                "curr_stop_name": "Saint Joseph",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5382.0,
+                "next_stop_name": "Ancien Hopital"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703951,
+                        49.41454693
+                    ],
+                    [
+                        2.822884094,
+                        49.41666127
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 11909,
+                "curr_stop_name": "Domeliers",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5198,
+                "next_stop_name": "Saint Corneille"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.87591169,
+                        49.43396176
+                    ],
+                    [
+                        2.858861705,
+                        49.43009323
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 13728.0,
+                "curr_stop_name": "Marronniers",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 13730.0,
+                "next_stop_name": "Aventis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.806713628,
+                        49.40853278
+                    ],
+                    [
+                        2.809129653,
+                        49.40777773
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5191,
+                "curr_stop_name": "Les Jardins",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5217,
+                "next_stop_name": "Centre Culturel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.825673655,
+                        49.42041389
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5213,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5395,
+                "next_stop_name": "Hippolyte Bottier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.812978018,
+                        49.40709784
+                    ],
+                    [
+                        2.816155176,
+                        49.40973528
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5202.0,
+                "curr_stop_name": "Saint Fiacre",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5249.0,
+                "next_stop_name": "Ecole St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.807242247,
+                        49.41063277
+                    ],
+                    [
+                        2.806713628,
+                        49.40853278
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5217.0,
+                "curr_stop_name": "Raleigh",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5235.0,
+                "next_stop_name": "Les Jardins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.816155176,
+                        49.40973528
+                    ],
+                    [
+                        2.81727793,
+                        49.41054828
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 12541.0,
+                "curr_stop_name": "Ecole St-Germain",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5202.0,
+                "next_stop_name": "Rue de Paris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.830433019,
+                        49.42274806
+                    ],
+                    [
+                        2.825190267,
+                        49.42026314
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5344.0,
+                "curr_stop_name": "Sports Nautiques",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5376.0,
+                "next_stop_name": "Hippolyte Bottier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.822219222,
+                        49.41333122
+                    ],
+                    [
+                        2.823703951,
+                        49.41454693
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5198.0,
+                "curr_stop_name": "Ancien Hopital",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5165.0,
+                "next_stop_name": "Domeliers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.834070662,
+                        49.42581429
+                    ],
+                    [
+                        2.830433019,
+                        49.42274806
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5376.0,
+                "curr_stop_name": "Banniere du Roi",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5391.0,
+                "next_stop_name": "Sports Nautiques"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.806913349,
+                        49.40929556
+                    ],
+                    [
+                        2.806169081,
+                        49.41070881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5366.0,
+                "curr_stop_name": "Les Jardins",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5348.0,
+                "next_stop_name": "Raleigh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.811045956,
+                        49.40509323
+                    ],
+                    [
+                        2.807822036,
+                        49.40330025
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 11911,
+                "curr_stop_name": "Croix Rouge",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 12028,
+                "next_stop_name": "Saint Come - Memorial"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.796416509,
+                        49.40090084
+                    ],
+                    [
+                        2.794678662,
+                        49.39896708
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5296,
+                "curr_stop_name": "Denielou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 19,
+                "next_stop_ID": 5327,
+                "next_stop_name": "Andre Malraux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.800644887,
+                        49.40728067
+                    ],
+                    [
+                        2.801603507,
+                        49.40976531
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5192.0,
+                "curr_stop_name": "Stade du Clos des Roses",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5251.0,
+                "next_stop_name": "Centre de Secours"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.796650664,
+                        49.40091792
+                    ],
+                    [
+                        2.799178091,
+                        49.40491475
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5216.0,
+                "curr_stop_name": "Denielou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5196.0,
+                "next_stop_name": "Hopital de Jour"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.822219222,
+                        49.41333122
+                    ],
+                    [
+                        2.823703951,
+                        49.41454693
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 4,
+                "curr_stop_ID": 5198.0,
+                "curr_stop_name": "Ancien Hopital",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5165.0,
+                "next_stop_name": "Domeliers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.784866228,
+                        49.39598559
+                    ],
+                    [
+                        2.790137466,
+                        49.39908306
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5200.0,
+                "curr_stop_name": "Ferdinand De Lesseps",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5205.0,
+                "next_stop_name": "Docteur Guerin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.808938661,
+                        49.40796713
+                    ],
+                    [
+                        2.806913349,
+                        49.40929556
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5348.0,
+                "curr_stop_name": "Centre Culturel",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5322.0,
+                "next_stop_name": "Les Jardins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.816155176,
+                        49.40973528
+                    ],
+                    [
+                        2.81727793,
+                        49.41054828
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 12541.0,
+                "curr_stop_name": "Ecole St-Germain",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5202.0,
+                "next_stop_name": "Rue de Paris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.814897628,
+                        49.41218368
+                    ],
+                    [
+                        2.812668757,
+                        49.410863
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5368,
+                "curr_stop_name": "Gambetta",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5339,
+                "next_stop_name": "Residence Universitaire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.806913349,
+                        49.40929556
+                    ],
+                    [
+                        2.806169081,
+                        49.41070881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5366,
+                "curr_stop_name": "Les Jardins",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5348,
+                "next_stop_name": "Raleigh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.816155176,
+                        49.40973528
+                    ],
+                    [
+                        2.81727793,
+                        49.41054828
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 12541.0,
+                "curr_stop_name": "Ecole St-Germain",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5202.0,
+                "next_stop_name": "Rue de Paris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.822219222,
+                        49.41333122
+                    ],
+                    [
+                        2.823703951,
+                        49.41454693
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5198.0,
+                "curr_stop_name": "Ancien Hopital",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5165.0,
+                "next_stop_name": "Domeliers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.806169081,
+                        49.41070881
+                    ],
+                    [
+                        2.801329554,
+                        49.40991907
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5323.0,
+                "curr_stop_name": "Raleigh",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5366.0,
+                "next_stop_name": "Centre de Secours"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.801603507,
+                        49.40976531
+                    ],
+                    [
+                        2.807242247,
+                        49.41063277
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5235.0,
+                "curr_stop_name": "Centre de Secours",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5192.0,
+                "next_stop_name": "Raleigh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.824939866,
+                        49.41854839
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341.0,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5160.0,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819364074,
+                        49.41571422
+                    ],
+                    [
+                        2.82111489,
+                        49.4144855
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5311.0,
+                "curr_stop_name": "Port a Bateaux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5364.0,
+                "next_stop_name": "Capucins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.820540097,
+                        49.41047235
+                    ],
+                    [
+                        2.817305548,
+                        49.41055715
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 12540.0,
+                "curr_stop_name": "Saint Joseph",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5250.0,
+                "next_stop_name": "Rue de Paris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.812978018,
+                        49.40709784
+                    ],
+                    [
+                        2.816155176,
+                        49.40973528
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5202.0,
+                "curr_stop_name": "Saint Fiacre",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5249.0,
+                "next_stop_name": "Ecole St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.824939866,
+                        49.41854839
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341.0,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5160.0,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.806169081,
+                        49.41070881
+                    ],
+                    [
+                        2.801329554,
+                        49.40991907
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5323.0,
+                "curr_stop_name": "Raleigh",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5366.0,
+                "next_stop_name": "Centre de Secours"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.792596126,
+                        49.40005296
+                    ],
+                    [
+                        2.796650664,
+                        49.40091792
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5196,
+                "curr_stop_name": "Docteur Calmette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5199,
+                "next_stop_name": "Denielou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.808938661,
+                        49.40796713
+                    ],
+                    [
+                        2.806913349,
+                        49.40929556
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5348.0,
+                "curr_stop_name": "Centre Culturel",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5322.0,
+                "next_stop_name": "Les Jardins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.790137466,
+                        49.39908306
+                    ],
+                    [
+                        2.792596126,
+                        49.40005296
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5199,
+                "curr_stop_name": "Docteur Guerin",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5200,
+                "next_stop_name": "Docteur Calmette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.817305548,
+                        49.41055715
+                    ],
+                    [
+                        2.816002903,
+                        49.40964606
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5333.0,
+                "curr_stop_name": "Rue de Paris",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 12540.0,
+                "next_stop_name": "Ecole St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79080515,
+                        49.38742027
+                    ],
+                    [
+                        2.789333496,
+                        49.39219594
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5265.0,
+                "curr_stop_name": "Hopital Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5130.0,
+                "next_stop_name": "Mercieres"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.796650664,
+                        49.40091792
+                    ],
+                    [
+                        2.799178091,
+                        49.40491475
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5216.0,
+                "curr_stop_name": "Denielou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5196.0,
+                "next_stop_name": "Hopital de Jour"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.806913349,
+                        49.40929556
+                    ],
+                    [
+                        2.806169081,
+                        49.41070881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5366.0,
+                "curr_stop_name": "Les Jardins",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5348.0,
+                "next_stop_name": "Raleigh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.812668757,
+                        49.410863
+                    ],
+                    [
+                        2.80877776,
+                        49.40843488
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5326,
+                "curr_stop_name": "Residence Universitaire",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5368,
+                "next_stop_name": "Delaidde"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.825673655,
+                        49.42041389
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5213.0,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5395.0,
+                "next_stop_name": "Hippolyte Bottier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.801329554,
+                        49.40991907
+                    ],
+                    [
+                        2.80036916,
+                        49.40723681
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5383,
+                "curr_stop_name": "Centre de Secours",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5323,
+                "next_stop_name": "Stade du Clos des Roses"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819364074,
+                        49.41571422
+                    ],
+                    [
+                        2.819003144,
+                        49.41540125
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5321.0,
+                "curr_stop_name": "Port a Bateaux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5364.0,
+                "next_stop_name": "Couttolenc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.807830041,
+                        49.39667061
+                    ],
+                    [
+                        2.80485587,
+                        49.39804764
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5136.0,
+                "curr_stop_name": "Pillet Will",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 20,
+                "next_stop_ID": 5135.0,
+                "next_stop_name": "Abbaye"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.807242247,
+                        49.41063277
+                    ],
+                    [
+                        2.806713628,
+                        49.40853278
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5217.0,
+                "curr_stop_name": "Raleigh",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5235.0,
+                "next_stop_name": "Les Jardins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.816002903,
+                        49.40964606
+                    ],
+                    [
+                        2.812756097,
+                        49.40691906
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5381,
+                "curr_stop_name": "Ecole St-Germain",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5333,
+                "next_stop_name": "Saint Fiacre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.814897628,
+                        49.41218368
+                    ],
+                    [
+                        2.812668757,
+                        49.410863
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5368,
+                "curr_stop_name": "Gambetta",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5339,
+                "next_stop_name": "Residence Universitaire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.784609192,
+                        49.38071493
+                    ],
+                    [
+                        2.78798181,
+                        49.3840262
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5128,
+                "curr_stop_name": "Mercure",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5127,
+                "next_stop_name": "CIMA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703951,
+                        49.41454693
+                    ],
+                    [
+                        2.822884094,
+                        49.41666127
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 11909.0,
+                "curr_stop_name": "Domeliers",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5198.0,
+                "next_stop_name": "Saint Corneille"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781869482,
+                        49.38370756
+                    ],
+                    [
+                        2.781423179,
+                        49.38142743
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5126.0,
+                "curr_stop_name": "Lycee Charles de Gaulle",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5125.0,
+                "next_stop_name": "Jean Monnet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.812978018,
+                        49.40709784
+                    ],
+                    [
+                        2.816155176,
+                        49.40973528
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5202.0,
+                "curr_stop_name": "Saint Fiacre",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5249.0,
+                "next_stop_name": "Ecole St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.799178091,
+                        49.40491475
+                    ],
+                    [
+                        2.800644887,
+                        49.40728067
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5251,
+                "curr_stop_name": "Hopital de Jour",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5216,
+                "next_stop_name": "Stade du Clos des Roses"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.815256548,
+                        49.41376329
+                    ],
+                    [
+                        2.819154595,
+                        49.41540065
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5190.0,
+                "curr_stop_name": "Eglise St-Germain",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5203.0,
+                "next_stop_name": "Couttolenc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79981507,
+                        49.39617165
+                    ],
+                    [
+                        2.797274054,
+                        49.39675631
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5267.0,
+                "curr_stop_name": "Vivier Corax",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 19,
+                "next_stop_ID": 5268.0,
+                "next_stop_name": "Centre Commercial Royallieu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.801329554,
+                        49.40991907
+                    ],
+                    [
+                        2.80036916,
+                        49.40723681
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5383,
+                "curr_stop_name": "Centre de Secours",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5323,
+                "next_stop_name": "Stade du Clos des Roses"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819003144,
+                        49.41540125
+                    ],
+                    [
+                        2.815837058,
+                        49.41400353
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5334.0,
+                "curr_stop_name": "Couttolenc",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5321.0,
+                "next_stop_name": "Eglise St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.824939866,
+                        49.41854839
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5160,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.822884094,
+                        49.41666127
+                    ],
+                    [
+                        2.824939866,
+                        49.41854839
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5160.0,
+                "curr_stop_name": "Saint Corneille",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 11909.0,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.812756097,
+                        49.40691906
+                    ],
+                    [
+                        2.808938661,
+                        49.40796713
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5322.0,
+                "curr_stop_name": "Saint Fiacre",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5381.0,
+                "next_stop_name": "Centre Culturel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.804656985,
+                        49.39434732
+                    ],
+                    [
+                        2.807830041,
+                        49.39667061
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5135.0,
+                "curr_stop_name": "Huy Senlis",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 20,
+                "next_stop_ID": 5410.0,
+                "next_stop_name": "Pillet Will"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

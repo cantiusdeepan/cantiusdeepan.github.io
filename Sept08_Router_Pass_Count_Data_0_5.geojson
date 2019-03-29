@@ -1,0 +1,2180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.807213584,
+                        49.4210263
+                    ],
+                    [
+                        2.805523104,
+                        49.42138322
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5312.0,
+                "curr_stop_name": "Prairie",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5365.0,
+                "next_stop_name": "Castors"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.820945101,
+                        49.42275958
+                    ],
+                    [
+                        2.819499484,
+                        49.42425655
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5221.0,
+                "curr_stop_name": "Rue d'Amiens",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5371.0,
+                "next_stop_name": "Mairie de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.80725757,
+                        49.42084871
+                    ],
+                    [
+                        2.810243839,
+                        49.42111325
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5212,
+                "curr_stop_name": "Prairie",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5234,
+                "next_stop_name": "Gymnase de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.808938661,
+                        49.40796713
+                    ],
+                    [
+                        2.806913349,
+                        49.40929556
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5348.0,
+                "curr_stop_name": "Centre Culturel",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5322.0,
+                "next_stop_name": "Les Jardins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.791123319,
+                        49.41405426
+                    ],
+                    [
+                        2.798892266,
+                        49.41598305
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5222.0,
+                "curr_stop_name": "Hauts de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5215.0,
+                "next_stop_name": "Mairie de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.822219222,
+                        49.41333122
+                    ],
+                    [
+                        2.823703951,
+                        49.41454693
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5198.0,
+                "curr_stop_name": "Ancien Hopital",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5165.0,
+                "next_stop_name": "Domeliers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.812978018,
+                        49.40709784
+                    ],
+                    [
+                        2.816155176,
+                        49.40973528
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5202.0,
+                "curr_stop_name": "Saint Fiacre",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5249.0,
+                "next_stop_name": "Ecole St-Germain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.784866228,
+                        49.39598559
+                    ],
+                    [
+                        2.790137466,
+                        49.39908306
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5200.0,
+                "curr_stop_name": "Ferdinand De Lesseps",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 6,
+                "next_stop_ID": 5205.0,
+                "next_stop_name": "Docteur Guerin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.825673655,
+                        49.42041389
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 4,
+                "curr_stop_ID": 5213.0,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 6,
+                "next_stop_ID": 5395.0,
+                "next_stop_name": "Hippolyte Bottier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823005831,
+                        49.41933773
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5345.0,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5395.0,
+                "next_stop_name": "Harlay"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.825673655,
+                        49.42041389
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5213.0,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5395.0,
+                "next_stop_name": "Hippolyte Bottier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.811296685,
+                        49.42477418
+                    ],
+                    [
+                        2.810863316,
+                        49.42258403
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5354.0,
+                "curr_stop_name": "Barthou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5301.0,
+                "next_stop_name": "Margny de Gaulle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.808938661,
+                        49.40796713
+                    ],
+                    [
+                        2.806913349,
+                        49.40929556
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5348.0,
+                "curr_stop_name": "Centre Culturel",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 8,
+                "next_stop_ID": 5322.0,
+                "next_stop_name": "Les Jardins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.825673655,
+                        49.42041389
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5213,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 8,
+                "next_stop_ID": 5395,
+                "next_stop_name": "Hippolyte Bottier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.834070662,
+                        49.42581429
+                    ],
+                    [
+                        2.830433019,
+                        49.42274806
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5376.0,
+                "curr_stop_name": "Banniere du Roi",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 8,
+                "next_stop_ID": 5391.0,
+                "next_stop_name": "Sports Nautiques"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.81727793,
+                        49.41054828
+                    ],
+                    [
+                        2.820272773,
+                        49.40986257
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5382,
+                "curr_stop_name": "Rue de Paris",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 12541,
+                "next_stop_name": "Saint Joseph"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.824939866,
+                        49.41854839
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5341,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5160,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.778715972,
+                        49.40901593
+                    ],
+                    [
+                        2.781388003,
+                        49.40756881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5176.0,
+                "curr_stop_name": "Monnet",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 13990.0,
+                "next_stop_name": "Centre Commercial Jaux Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.805523104,
+                        49.42138322
+                    ],
+                    [
+                        2.804078066,
+                        49.41845137
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5315.0,
+                "curr_stop_name": "Castors",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5312.0,
+                "next_stop_name": "Chateau de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819364074,
+                        49.41571422
+                    ],
+                    [
+                        2.819003144,
+                        49.41540125
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5321.0,
+                "curr_stop_name": "Port a Bateaux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5364.0,
+                "next_stop_name": "Couttolenc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.820272773,
+                        49.40986257
+                    ],
+                    [
+                        2.822219222,
+                        49.41333122
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5165.0,
+                "curr_stop_name": "Saint Joseph",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5382.0,
+                "next_stop_name": "Ancien Hopital"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.778715972,
+                        49.40901593
+                    ],
+                    [
+                        2.781388003,
+                        49.40756881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5176.0,
+                "curr_stop_name": "Monnet",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 13990.0,
+                "next_stop_name": "Centre Commercial Jaux Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.820945101,
+                        49.42275958
+                    ],
+                    [
+                        2.819499484,
+                        49.42425655
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5221.0,
+                "curr_stop_name": "Rue d'Amiens",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5371.0,
+                "next_stop_name": "Mairie de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810562938,
+                        49.42435487
+                    ],
+                    [
+                        2.817097968,
+                        49.42662867
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5227,
+                "curr_stop_name": "Barthou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5169,
+                "next_stop_name": "Octave Butin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.811296685,
+                        49.42477418
+                    ],
+                    [
+                        2.810863316,
+                        49.42258403
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5354,
+                "curr_stop_name": "Barthou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5301,
+                "next_stop_name": "Margny de Gaulle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.807213584,
+                        49.4210263
+                    ],
+                    [
+                        2.805523104,
+                        49.42138322
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5312.0,
+                "curr_stop_name": "Prairie",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5365.0,
+                "next_stop_name": "Castors"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.798892266,
+                        49.41598305
+                    ],
+                    [
+                        2.804285666,
+                        49.41856735
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5184.0,
+                "curr_stop_name": "Mairie de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5222.0,
+                "next_stop_name": "Chateau de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823005831,
+                        49.41933773
+                    ],
+                    [
+                        2.821909738,
+                        49.41846181
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 15294.0,
+                "curr_stop_name": "Harlay",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5345.0,
+                "next_stop_name": "Parc Songeons"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823791788,
+                        49.41945134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5293.0,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5395.0,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.805758094,
+                        49.42148112
+                    ],
+                    [
+                        2.80725757,
+                        49.42084871
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5234.0,
+                "curr_stop_name": "Castors",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5181.0,
+                "next_stop_name": "Prairie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.804285666,
+                        49.41856735
+                    ],
+                    [
+                        2.805758094,
+                        49.42148112
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5181,
+                "curr_stop_name": "Chateau de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5184,
+                "next_stop_name": "Castors"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.805523104,
+                        49.42138322
+                    ],
+                    [
+                        2.804078066,
+                        49.41845137
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5315.0,
+                "curr_stop_name": "Castors",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5312.0,
+                "next_stop_name": "Chateau de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.78798181,
+                        49.3840262
+                    ],
+                    [
+                        2.791037494,
+                        49.38723973
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5264.0,
+                "curr_stop_name": "CIMA",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5128.0,
+                "next_stop_name": "Hopital  Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810243839,
+                        49.42111325
+                    ],
+                    [
+                        2.810575552,
+                        49.42273788
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5223.0,
+                "curr_stop_name": "Gymnase de Margny",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5212.0,
+                "next_stop_name": "Margny de Gaulle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.82091595,
+                        49.42258902
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341,
+                "curr_stop_name": "Rue d'Amiens",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5240,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.783192093,
+                        49.40606196
+                    ],
+                    [
+                        2.791123319,
+                        49.41405426
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5215,
+                "curr_stop_name": "Cailloux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5308,
+                "next_stop_name": "Hauts de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.80725757,
+                        49.42084871
+                    ],
+                    [
+                        2.810243839,
+                        49.42111325
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5212.0,
+                "curr_stop_name": "Prairie",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5234.0,
+                "next_stop_name": "Gymnase de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.795372231,
+                        49.4103551
+                    ],
+                    [
+                        2.781430468,
+                        49.4077034
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 13733.0,
+                "curr_stop_name": "Cimetiere de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5316.0,
+                "next_stop_name": "Centre Commercial Jaux Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781388003,
+                        49.40756881
+                    ],
+                    [
+                        2.779967923,
+                        49.40413349
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5178.0,
+                "curr_stop_name": "Centre Commercial Jaux Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5176.0,
+                "next_stop_name": "Camp du Roy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819499484,
+                        49.42425655
+                    ],
+                    [
+                        2.81651966,
+                        49.42663995
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5358.0,
+                "curr_stop_name": "Mairie de Margny",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5221.0,
+                "next_stop_name": "Octave Butin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.779967923,
+                        49.40413349
+                    ],
+                    [
+                        2.783192093,
+                        49.40606196
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5308,
+                "curr_stop_name": "Camp du Roy",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5178,
+                "next_stop_name": "Cailloux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810575552,
+                        49.42273788
+                    ],
+                    [
+                        2.810562938,
+                        49.42435487
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5169.0,
+                "curr_stop_name": "Margny de Gaulle",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5223.0,
+                "next_stop_name": "Barthou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781430468,
+                        49.4077034
+                    ],
+                    [
+                        2.778715972,
+                        49.40901593
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5390.0,
+                "curr_stop_name": "Centre Commercial Jaux Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 13733.0,
+                "next_stop_name": "Monnet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.798892266,
+                        49.41598305
+                    ],
+                    [
+                        2.804285666,
+                        49.41856735
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5184.0,
+                "curr_stop_name": "Mairie de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5222.0,
+                "next_stop_name": "Chateau de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.818829787,
+                        49.42479821
+                    ],
+                    [
+                        2.82091595,
+                        49.42258902
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5240,
+                "curr_stop_name": "Mairie de Margny",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5352,
+                "next_stop_name": "Rue d'Amiens"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810863316,
+                        49.42258403
+                    ],
+                    [
+                        2.810106141,
+                        49.42111379
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5343.0,
+                "curr_stop_name": "Margny de Gaulle",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5354.0,
+                "next_stop_name": "Gymnase de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.778715972,
+                        49.40901593
+                    ],
+                    [
+                        2.781388003,
+                        49.40756881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5176.0,
+                "curr_stop_name": "Monnet",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 13990.0,
+                "next_stop_name": "Centre Commercial Jaux Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.778715972,
+                        49.40901593
+                    ],
+                    [
+                        2.781388003,
+                        49.40756881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5176.0,
+                "curr_stop_name": "Monnet",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 13990.0,
+                "next_stop_name": "Centre Commercial Jaux Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.804078066,
+                        49.41845137
+                    ],
+                    [
+                        2.799227909,
+                        49.41350243
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5378,
+                "curr_stop_name": "Chateau de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5315,
+                "next_stop_name": "Square Nolet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.822219222,
+                        49.41333122
+                    ],
+                    [
+                        2.823703951,
+                        49.41454693
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5198,
+                "curr_stop_name": "Ancien Hopital",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5165,
+                "next_stop_name": "Domeliers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.791123319,
+                        49.41405426
+                    ],
+                    [
+                        2.798892266,
+                        49.41598305
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5222.0,
+                "curr_stop_name": "Hauts de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5215.0,
+                "next_stop_name": "Mairie de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.791123319,
+                        49.41405426
+                    ],
+                    [
+                        2.798892266,
+                        49.41598305
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5222,
+                "curr_stop_name": "Hauts de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5215,
+                "next_stop_name": "Mairie de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.804285666,
+                        49.41856735
+                    ],
+                    [
+                        2.805758094,
+                        49.42148112
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5181.0,
+                "curr_stop_name": "Chateau de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5184.0,
+                "next_stop_name": "Castors"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.825190267,
+                        49.42026314
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341,
+                "curr_stop_name": "Hippolyte Bottier",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 8,
+                "next_stop_ID": 5344,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.824939866,
+                        49.41854839
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341.0,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5160.0,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.783192093,
+                        49.40606196
+                    ],
+                    [
+                        2.791123319,
+                        49.41405426
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5215.0,
+                "curr_stop_name": "Cailloux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 11,
+                "next_stop_ID": 5308.0,
+                "next_stop_name": "Hauts de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.81651966,
+                        49.42663995
+                    ],
+                    [
+                        2.811296685,
+                        49.42477418
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5301.0,
+                "curr_stop_name": "Octave Butin",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5358.0,
+                "next_stop_name": "Barthou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.805758094,
+                        49.42148112
+                    ],
+                    [
+                        2.80725757,
+                        49.42084871
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5234.0,
+                "curr_stop_name": "Castors",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5181.0,
+                "next_stop_name": "Prairie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810106141,
+                        49.42111379
+                    ],
+                    [
+                        2.807213584,
+                        49.4210263
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5365,
+                "curr_stop_name": "Gymnase de Margny",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5343,
+                "next_stop_name": "Prairie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.801329554,
+                        49.40991907
+                    ],
+                    [
+                        2.80036916,
+                        49.40723681
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5383,
+                "curr_stop_name": "Centre de Secours",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 7,
+                "next_stop_ID": 5323,
+                "next_stop_name": "Stade du Clos des Roses"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.805758094,
+                        49.42148112
+                    ],
+                    [
+                        2.80725757,
+                        49.42084871
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5234.0,
+                "curr_stop_name": "Castors",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5181.0,
+                "next_stop_name": "Prairie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810575552,
+                        49.42273788
+                    ],
+                    [
+                        2.810562938,
+                        49.42435487
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5169,
+                "curr_stop_name": "Margny de Gaulle",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5223,
+                "next_stop_name": "Barthou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.820945101,
+                        49.42275958
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5371.0,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5395.0,
+                "next_stop_name": "Rue d'Amiens"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.807213584,
+                        49.4210263
+                    ],
+                    [
+                        2.805523104,
+                        49.42138322
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5312.0,
+                "curr_stop_name": "Prairie",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5365.0,
+                "next_stop_name": "Castors"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810243839,
+                        49.42111325
+                    ],
+                    [
+                        2.810575552,
+                        49.42273788
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5223,
+                "curr_stop_name": "Gymnase de Margny",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5212,
+                "next_stop_name": "Margny de Gaulle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.816155176,
+                        49.40973528
+                    ],
+                    [
+                        2.81727793,
+                        49.41054828
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 12541.0,
+                "curr_stop_name": "Ecole St-Germain",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5202.0,
+                "next_stop_name": "Rue de Paris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.80725757,
+                        49.42084871
+                    ],
+                    [
+                        2.810243839,
+                        49.42111325
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5212.0,
+                "curr_stop_name": "Prairie",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5234.0,
+                "next_stop_name": "Gymnase de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.798892266,
+                        49.41598305
+                    ],
+                    [
+                        2.804285666,
+                        49.41856735
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5184,
+                "curr_stop_name": "Mairie de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 10,
+                "next_stop_ID": 5222,
+                "next_stop_name": "Chateau de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.805523104,
+                        49.42138322
+                    ],
+                    [
+                        2.804078066,
+                        49.41845137
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5315,
+                "curr_stop_name": "Castors",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5312,
+                "next_stop_name": "Chateau de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703951,
+                        49.41454693
+                    ],
+                    [
+                        2.822884094,
+                        49.41666127
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 11909.0,
+                "curr_stop_name": "Domeliers",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 9,
+                "next_stop_ID": 5198.0,
+                "next_stop_name": "Saint Corneille"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.81651966,
+                        49.42663995
+                    ],
+                    [
+                        2.811296685,
+                        49.42477418
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5301.0,
+                "curr_stop_name": "Octave Butin",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5358.0,
+                "next_stop_name": "Barthou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.820945101,
+                        49.42275958
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5371,
+                "curr_stop_name": "Gare Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5395,
+                "next_stop_name": "Rue d'Amiens"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.810863316,
+                        49.42258403
+                    ],
+                    [
+                        2.810106141,
+                        49.42111379
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5343,
+                "curr_stop_name": "Margny de Gaulle",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5354,
+                "next_stop_name": "Gymnase de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781430468,
+                        49.4077034
+                    ],
+                    [
+                        2.778715972,
+                        49.40901593
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5390.0,
+                "curr_stop_name": "Centre Commercial Jaux Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 13733.0,
+                "next_stop_name": "Monnet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.798892266,
+                        49.41598305
+                    ],
+                    [
+                        2.804285666,
+                        49.41856735
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5184.0,
+                "curr_stop_name": "Mairie de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5222.0,
+                "next_stop_name": "Chateau de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823791788,
+                        49.41945134
+                    ],
+                    [
+                        2.827120604,
+                        49.41620394
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5351.0,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5293.0,
+                "next_stop_name": "Magenta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.799227909,
+                        49.41350243
+                    ],
+                    [
+                        2.795372231,
+                        49.4103551
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5316,
+                "curr_stop_name": "Square Nolet",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5378,
+                "next_stop_name": "Cimetiere de Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.827120604,
+                        49.41620394
+                    ],
+                    [
+                        2.830310647,
+                        49.41575076
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5154.0,
+                "curr_stop_name": "Magenta",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5351.0,
+                "next_stop_name": "Victor Hugo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.796416509,
+                        49.40090084
+                    ],
+                    [
+                        2.794678662,
+                        49.39896708
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5296,
+                "curr_stop_name": "Denielou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5327,
+                "next_stop_name": "Andre Malraux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.807213584,
+                        49.4210263
+                    ],
+                    [
+                        2.805523104,
+                        49.42138322
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5312.0,
+                "curr_stop_name": "Prairie",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5365.0,
+                "next_stop_name": "Castors"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.802299668,
+                        49.40303424
+                    ],
+                    [
+                        2.799444748,
+                        49.40089824
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5314.0,
+                "curr_stop_name": "Rostand",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5370.0,
+                "next_stop_name": "Centre de Recherches"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781388003,
+                        49.40756881
+                    ],
+                    [
+                        2.779967923,
+                        49.40413349
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5178.0,
+                "curr_stop_name": "Centre Commercial Jaux Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 5176.0,
+                "next_stop_name": "Camp du Roy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.804285666,
+                        49.41856735
+                    ],
+                    [
+                        2.805758094,
+                        49.42148112
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5181.0,
+                "curr_stop_name": "Chateau de Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5184.0,
+                "next_stop_name": "Castors"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.817097968,
+                        49.42662867
+                    ],
+                    [
+                        2.818829787,
+                        49.42479821
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5352,
+                "curr_stop_name": "Octave Butin",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 5227,
+                "next_stop_name": "Mairie de Margny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.778715972,
+                        49.40901593
+                    ],
+                    [
+                        2.781388003,
+                        49.40756881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5176.0,
+                "curr_stop_name": "Monnet",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 13990.0,
+                "next_stop_name": "Centre Commercial Jaux Venette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.819499484,
+                        49.42425655
+                    ],
+                    [
+                        2.81651966,
+                        49.42663995
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5358.0,
+                "curr_stop_name": "Mairie de Margny",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 15,
+                "next_stop_ID": 5221.0,
+                "next_stop_name": "Octave Butin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781430468,
+                        49.4077034
+                    ],
+                    [
+                        2.778715972,
+                        49.40901593
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5390.0,
+                "curr_stop_name": "Centre Commercial Jaux Venette",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 12,
+                "next_stop_ID": 13733.0,
+                "next_stop_name": "Monnet"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

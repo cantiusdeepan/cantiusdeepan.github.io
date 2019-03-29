@@ -1,0 +1,1105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823791788,
+                        49.41945134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5293,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781869482,
+                        49.38370756
+                    ],
+                    [
+                        2.781423179,
+                        49.38142743
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5126.0,
+                "curr_stop_name": "Lycee Charles de Gaulle",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5125.0,
+                "next_stop_name": "Jean Monnet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823791788,
+                        49.41945134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5293,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.829314997,
+                        49.41799386
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5341.0,
+                "curr_stop_name": "Palais",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 15396.0,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.789333496,
+                        49.39219594
+                    ],
+                    [
+                        2.794230296,
+                        49.39653433
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5132.0,
+                "curr_stop_name": "Mercieres",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 6,
+                "next_stop_ID": 5265.0,
+                "next_stop_name": "Blaise Pascal"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.789333496,
+                        49.39219594
+                    ],
+                    [
+                        2.794230296,
+                        49.39653433
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5132,
+                "curr_stop_name": "Mercieres",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5265,
+                "next_stop_name": "Blaise Pascal"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.824939866,
+                        49.41854839
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5161.0,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5160.0,
+                "next_stop_name": "Gare"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.81761775,
+                        49.4189012
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5420,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Rue de Clermont"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.81761775,
+                        49.4189012
+                    ],
+                    [
+                        2.819364074,
+                        49.41571422
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5364.0,
+                "curr_stop_name": "Rue de Clermont",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5420.0,
+                "next_stop_name": "Port a Bateaux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.804852893,
+                        49.40376097
+                    ],
+                    [
+                        2.807245471,
+                        49.40347318
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 11910,
+                "curr_stop_name": "Camp de Royallieu",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 11912,
+                "next_stop_name": "Saint Come - Memorial"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.814897628,
+                        49.41218368
+                    ],
+                    [
+                        2.812668757,
+                        49.410863
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5368.0,
+                "curr_stop_name": "Gambetta",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5339.0,
+                "next_stop_name": "Residence Universitaire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.796650664,
+                        49.40091792
+                    ],
+                    [
+                        2.799513246,
+                        49.40086205
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5183.0,
+                "curr_stop_name": "Denielou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5196.0,
+                "next_stop_name": "Centre de Recherches"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.802035448,
+                        49.40273881
+                    ],
+                    [
+                        2.804852893,
+                        49.40376097
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 11912,
+                "curr_stop_name": "Rostand",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5239,
+                "next_stop_name": "Camp de Royallieu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79080515,
+                        49.38742027
+                    ],
+                    [
+                        2.789333496,
+                        49.39219594
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5265.0,
+                "curr_stop_name": "Hopital Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 6,
+                "next_stop_ID": 5130.0,
+                "next_stop_name": "Mercieres"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.829314997,
+                        49.41799386
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341,
+                "curr_stop_name": "Palais",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 15396,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.794230296,
+                        49.39653433
+                    ],
+                    [
+                        2.79499547,
+                        49.39899283
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5163,
+                "curr_stop_name": "Blaise Pascal",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5132,
+                "next_stop_name": "Andre Malraux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823791788,
+                        49.41945134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5293,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 19,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.78798181,
+                        49.3840262
+                    ],
+                    [
+                        2.791037494,
+                        49.38723973
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5264.0,
+                "curr_stop_name": "CIMA",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5128.0,
+                "next_stop_name": "Hopital  Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79080515,
+                        49.38742027
+                    ],
+                    [
+                        2.789333496,
+                        49.39219594
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 4,
+                "curr_stop_ID": 5265.0,
+                "curr_stop_name": "Hopital Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5130.0,
+                "next_stop_name": "Mercieres"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.799513246,
+                        49.40086205
+                    ],
+                    [
+                        2.802035448,
+                        49.40273881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5239.0,
+                "curr_stop_name": "Centre de Recherches",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5183.0,
+                "next_stop_name": "Rostand"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79499547,
+                        49.39899283
+                    ],
+                    [
+                        2.796650664,
+                        49.40091792
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5196,
+                "curr_stop_name": "Andre Malraux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5163,
+                "next_stop_name": "Denielou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.783022294,
+                        49.38850488
+                    ],
+                    [
+                        2.781869482,
+                        49.38370756
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5125.0,
+                "curr_stop_name": "Parc de Loisirs",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5411.0,
+                "next_stop_name": "Lycee Charles de Gaulle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823791788,
+                        49.41945134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5293,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.781869482,
+                        49.38370756
+                    ],
+                    [
+                        2.781423179,
+                        49.38142743
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5126.0,
+                "curr_stop_name": "Lycee Charles de Gaulle",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5125.0,
+                "next_stop_name": "Jean Monnet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823791788,
+                        49.41945134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5293,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 18,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.829314997,
+                        49.41799386
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 2,
+                "curr_stop_ID": 5341.0,
+                "curr_stop_name": "Palais",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 13,
+                "next_stop_ID": 15396.0,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.789333496,
+                        49.39219594
+                    ],
+                    [
+                        2.794230296,
+                        49.39653433
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5132.0,
+                "curr_stop_name": "Mercieres",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 6,
+                "next_stop_ID": 5265.0,
+                "next_stop_name": "Blaise Pascal"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.789333496,
+                        49.39219594
+                    ],
+                    [
+                        2.794230296,
+                        49.39653433
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5132,
+                "curr_stop_name": "Mercieres",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5265,
+                "next_stop_name": "Blaise Pascal"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.824939866,
+                        49.41854839
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5161.0,
+                "curr_stop_name": "Solferino",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5160.0,
+                "next_stop_name": "Gare"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.81761775,
+                        49.4189012
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5420,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 16,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Rue de Clermont"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.81761775,
+                        49.4189012
+                    ],
+                    [
+                        2.819364074,
+                        49.41571422
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5364.0,
+                "curr_stop_name": "Rue de Clermont",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5420.0,
+                "next_stop_name": "Port a Bateaux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.804852893,
+                        49.40376097
+                    ],
+                    [
+                        2.807245471,
+                        49.40347318
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 11910,
+                "curr_stop_name": "Camp de Royallieu",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 11912,
+                "next_stop_name": "Saint Come - Memorial"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.814897628,
+                        49.41218368
+                    ],
+                    [
+                        2.812668757,
+                        49.410863
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5368.0,
+                "curr_stop_name": "Gambetta",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5339.0,
+                "next_stop_name": "Residence Universitaire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.796650664,
+                        49.40091792
+                    ],
+                    [
+                        2.799513246,
+                        49.40086205
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5183.0,
+                "curr_stop_name": "Denielou",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5196.0,
+                "next_stop_name": "Centre de Recherches"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.802035448,
+                        49.40273881
+                    ],
+                    [
+                        2.804852893,
+                        49.40376097
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 11912,
+                "curr_stop_name": "Rostand",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5239,
+                "next_stop_name": "Camp de Royallieu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79080515,
+                        49.38742027
+                    ],
+                    [
+                        2.789333496,
+                        49.39219594
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5265.0,
+                "curr_stop_name": "Hopital Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 6,
+                "next_stop_ID": 5130.0,
+                "next_stop_name": "Mercieres"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.829314997,
+                        49.41799386
+                    ],
+                    [
+                        2.823703194,
+                        49.42172441
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5341,
+                "curr_stop_name": "Palais",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 15396,
+                "next_stop_name": "Gare Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.794230296,
+                        49.39653433
+                    ],
+                    [
+                        2.79499547,
+                        49.39899283
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5163,
+                "curr_stop_name": "Blaise Pascal",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5132,
+                "next_stop_name": "Andre Malraux"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.823703194,
+                        49.42172441
+                    ],
+                    [
+                        2.823791788,
+                        49.41945134
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 3,
+                "curr_stop_ID": 5293,
+                "curr_stop_name": "Gare",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 19,
+                "next_stop_ID": 5294,
+                "next_stop_name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.78798181,
+                        49.3840262
+                    ],
+                    [
+                        2.791037494,
+                        49.38723973
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5264.0,
+                "curr_stop_name": "CIMA",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5128.0,
+                "next_stop_name": "Hopital  Arrivee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79080515,
+                        49.38742027
+                    ],
+                    [
+                        2.789333496,
+                        49.39219594
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 4,
+                "curr_stop_ID": 5265.0,
+                "curr_stop_name": "Hopital Depart",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5130.0,
+                "next_stop_name": "Mercieres"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.799513246,
+                        49.40086205
+                    ],
+                    [
+                        2.802035448,
+                        49.40273881
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5239.0,
+                "curr_stop_name": "Centre de Recherches",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5183.0,
+                "next_stop_name": "Rostand"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.79499547,
+                        49.39899283
+                    ],
+                    [
+                        2.796650664,
+                        49.40091792
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5196,
+                "curr_stop_name": "Andre Malraux",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 17,
+                "next_stop_ID": 5163,
+                "next_stop_name": "Denielou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        2.783022294,
+                        49.38850488
+                    ],
+                    [
+                        2.781869482,
+                        49.38370756
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "Curr_passenger_count": 1,
+                "curr_stop_ID": 5125.0,
+                "curr_stop_name": "Parc de Loisirs",
+                "entity": "Passenger_Count_Data_between_consecutive_Stops",
+                "hour": 14,
+                "next_stop_ID": 5411.0,
+                "next_stop_name": "Lycee Charles de Gaulle"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
